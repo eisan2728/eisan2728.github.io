@@ -7,4 +7,4 @@
 ![image](https://assets-prd.ignimgs.com/2022/10/03/wakanda-forever-poster-button-1664815714839.jpg)
 - music
 * ![image](https://user-images.githubusercontent.com/118230131/202069256-403e49b0-0ae3-4423-919f-684807ed1a7e.png)
-* ![image](https://upload.wikimedia.org/wikipedia/commons/e/e7/%22AM%22_%28Arctic_Monkeys%29.jpg)
+* ![image](https://i.pinimg.com/originals/83/d0/69/83d069b306ad67a39cf7040fe32ed9a9.jpg)

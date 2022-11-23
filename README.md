@@ -10,7 +10,5 @@
 ![image](https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg)
 
 - music
-![image](https://user-images.githubusercontent.com/118230131/202069256-403e49b0-0ae3-4423-919f-684807ed1a7e.png)
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7j0cqSyR4DZg0IwcNxWHVU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

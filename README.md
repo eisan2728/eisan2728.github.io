@@ -11,5 +11,6 @@
 
 - music
 ![image](https://user-images.githubusercontent.com/118230131/202069256-403e49b0-0ae3-4423-919f-684807ed1a7e.png)
-![image](https://i.pinimg.com/originals/83/d0/69/83d069b306ad67a39cf7040fe32ed9a9.jpg)
-[Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC?si=49c39d11c3784ca1)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7j0cqSyR4DZg0IwcNxWHVU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
